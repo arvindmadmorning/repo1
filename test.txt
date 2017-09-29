@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AC76-868F
-
- Directory of C:\Users\Arvind\Desktop\Myproject
-
-29-09-2017  12:51    <DIR>          .
-29-09-2017  12:51    <DIR>          ..
-29-09-2017  12:51                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   1,686,540,288 bytes free
+This is a new test file created by Arvind
